@@ -1,0 +1,20 @@
+{
+  "name": "homework_14",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  },
+  "dependencies": {
+    "@types/jest": "^30.0.0",
+    "axios": "^1.13.2",
+    "fs": "^0.0.1-security"
+  },
+  "keywords": [],
+  "description": ""
+}
